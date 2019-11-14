@@ -1,0 +1,12 @@
+ .navbar-brand{
+	width: 200px;
+	font-weight: bold;
+	margin-left: 40px;
+}
+.nav-link{
+	width: 90px;
+	color: white;	
+}
+.nav-item:hover{
+	background: yellow;
+}
