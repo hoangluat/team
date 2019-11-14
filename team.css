@@ -1,0 +1,16 @@
+.container .ninh{
+	height: 200px;
+	background: yellow;
+}
+.card-body .btn-ninh{
+	background: yellow;
+	border-radius: 2rem 2rem 0.5rem 2rem;
+	border: none;
+	margin-left: 60px;
+}.card-body .line-ninh{
+	background: yellow;
+	height: 3px;
+	width: 50px;	 
+	margin-left: 80px;
+
+}
